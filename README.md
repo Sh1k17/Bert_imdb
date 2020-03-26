@@ -1,2 +1,0 @@
-# Bert_imdb
-
